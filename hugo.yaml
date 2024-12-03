@@ -1,0 +1,73 @@
+baseURL: https://njrdevs.com
+languageCode: en-us
+title: Jhanarthananraja Nagaraja
+theme: 'PaperMod'
+
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: 'Jhanarthananraja Nagaraja'
+  description: "Founder, Njrdevs Apps Solution | 4+ Flutter | Fullstack | Freelancer"
+  keywords: [Blog, Portfolio]
+  author: Me
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark # dark, light
+  disableThemeToggle: false
+
+  profileMode:
+    enabled: true 
+    title: "Jhanarthananraja Nagaraja"
+    subtitle: "Founder, Njrdevs Apps Solution | 4+ Flutter | Fullstack | Freelancer"
+    imageUrl: "me.JPG"
+    imageWidth: 240
+    imageHeight: 240
+    imageTitle: my image
+    buttons:
+      - name: Resume
+        url: 'https://drive.google.com/file/d/1pCb8Le3gMZOiEa15X9LgQ_NNahLEjn1V/view'
+      - name: 'About Me'
+        url: '/about'
+
+  socialIcons:
+      - name: email
+        url: "mailto:jhanarthananraja@gmail.com"
+      - name: linkedin
+        url: "https://www.linkedin.com/in/jhanarthananraja/"
+      - name: github
+        url: "https://github.com/tacticalninj4"
+      - name: cv
+        url: 'https://drive.google.com/file/d/1pCb8Le3gMZOiEa15X9LgQ_NNahLEjn1V/view'
+
+menu:
+  main:
+    - identifier: about
+      name: 'About Me'
+      url: /about
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 20
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 30
+    - identifier: achievements
+      name: Achievements
+      url: /achievements
+      weight: 40
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 50
