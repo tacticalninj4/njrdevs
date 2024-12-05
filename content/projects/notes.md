@@ -27,6 +27,8 @@ cover:
 #     relative: false # when using page bundles set this to true
 #     hidden: true # only hide on current single page
 ---
+[GitHub](https://github.com/tacticalninj4/notes)
+
 **Introducing the Ultimate Notes App: Organize, Customize, and Secure Your Thoughts**  
 
 In a fast-paced world where staying organized is key, a powerful notes app can be your greatest ally. Whether it’s jotting down ideas, managing tasks, or keeping sensitive information safe, our notes app has you covered. Packed with features designed for convenience, customization, and security, it’s more than just a notes app—it’s your personal productivity companion.  
