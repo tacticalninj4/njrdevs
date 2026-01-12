@@ -37,7 +37,7 @@ params:
       - name: Resume
         url: 'https://drive.google.com/file/d/14XfvwyJeVs0FajRqF2m4dp0bem-oBWC9/view?usp=share_link'
       - name: 'About Me'
-        url: '/about'
+        url: 'https://njrdevs.com/about'
 
   socialIcons:
       - name: email
