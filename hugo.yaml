@@ -35,7 +35,7 @@ params:
     imageTitle: my image
     buttons:
       - name: Resume
-        url: 'https://drive.google.com/file/d/1pCb8Le3gMZOiEa15X9LgQ_NNahLEjn1V/view'
+        url: 'https://drive.google.com/file/d/14XfvwyJeVs0FajRqF2m4dp0bem-oBWC9/view?usp=share_link'
       - name: 'About Me'
         url: '/about'
 
@@ -47,7 +47,7 @@ params:
       - name: github
         url: "https://github.com/tacticalninj4"
       - name: cv
-        url: 'https://drive.google.com/file/d/1pCb8Le3gMZOiEa15X9LgQ_NNahLEjn1V/view'
+        url: 'https://drive.google.com/file/d/14XfvwyJeVs0FajRqF2m4dp0bem-oBWC9/view?usp=share_link'
 
 menu:
   main:

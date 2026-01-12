@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Software House on Jhanarthananraja Nagaraja</title>
-    <link>http://localhost:1313/tags/software-house/</link>
+    <link>https://njrdevs.com/tags/software-house/</link>
     <description>Recent content in Software House on Jhanarthananraja Nagaraja</description>
     <image>
       <title>Jhanarthananraja Nagaraja</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://njrdevs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://njrdevs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.136.5</generator>
+    <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Jul 2024 11:30:03 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/software-house/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://njrdevs.com/tags/software-house/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NJRDEVS Apps Solutions</title>
-      <link>http://localhost:1313/blog/njrdevs_apps_solutions/</link>
+      <link>https://njrdevs.com/blog/njrdevs_apps_solutions/</link>
       <pubDate>Tue, 23 Jul 2024 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/blog/njrdevs_apps_solutions/</guid>
+      <guid>https://njrdevs.com/blog/njrdevs_apps_solutions/</guid>
       <description>About NJRDEVS Apps Solution</description>
     </item>
   </channel>

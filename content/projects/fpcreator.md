@@ -11,7 +11,6 @@ comments: false
 description: "About FP Creator"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true

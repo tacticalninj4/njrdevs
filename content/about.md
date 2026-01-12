@@ -12,7 +12,6 @@ comments: false
 description: "All You need to know about Jhanarthananraja Nagaraja"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true

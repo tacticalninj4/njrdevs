@@ -12,7 +12,6 @@ comments: false
 description: "About Simple Chat UI Package"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true

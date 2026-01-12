@@ -2,99 +2,106 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jhanarthananraja Nagaraja</title>
-    <link>http://localhost:1313/</link>
+    <link>https://njrdevs.com/</link>
     <description>Recent content on Jhanarthananraja Nagaraja</description>
     <image>
       <title>Jhanarthananraja Nagaraja</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://njrdevs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://njrdevs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.136.5</generator>
+    <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Nov 2024 11:30:03 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://njrdevs.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Financier</title>
+      <link>https://njrdevs.com/projects/financier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://njrdevs.com/projects/financier/</guid>
+      <description>Financier | Your Money, Simplified.</description>
+    </item>
     <item>
       <title>Notes</title>
-      <link>http://localhost:1313/projects/notes/</link>
+      <link>https://njrdevs.com/projects/notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/notes/</guid>
+      <guid>https://njrdevs.com/projects/notes/</guid>
       <description>About Notes</description>
     </item>
     <item>
       <title>My Undang</title>
-      <link>http://localhost:1313/projects/myundang/</link>
+      <link>https://njrdevs.com/projects/myundang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/myundang/</guid>
+      <guid>https://njrdevs.com/projects/myundang/</guid>
       <description>About MyUndang</description>
     </item>
     <item>
       <title>FP Creator</title>
-      <link>http://localhost:1313/projects/fpcreator/</link>
+      <link>https://njrdevs.com/projects/fpcreator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/fpcreator/</guid>
+      <guid>https://njrdevs.com/projects/fpcreator/</guid>
       <description>About FP Creator</description>
     </item>
     <item>
       <title>MERSPlus</title>
-      <link>http://localhost:1313/projects/mersplus/</link>
+      <link>https://njrdevs.com/projects/mersplus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/mersplus/</guid>
+      <guid>https://njrdevs.com/projects/mersplus/</guid>
       <description>About MERSPlus</description>
     </item>
     <item>
       <title>Chemathletes</title>
-      <link>http://localhost:1313/projects/chemathletes/</link>
+      <link>https://njrdevs.com/projects/chemathletes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/chemathletes/</guid>
+      <guid>https://njrdevs.com/projects/chemathletes/</guid>
       <description>About Chemathletes</description>
     </item>
     <item>
       <title>Void</title>
-      <link>http://localhost:1313/projects/void/</link>
+      <link>https://njrdevs.com/projects/void/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/void/</guid>
+      <guid>https://njrdevs.com/projects/void/</guid>
       <description>About Void</description>
     </item>
     <item>
       <title>Graduation</title>
-      <link>http://localhost:1313/blog/graduation/</link>
+      <link>https://njrdevs.com/blog/graduation/</link>
       <pubDate>Sat, 30 Nov 2024 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/blog/graduation/</guid>
+      <guid>https://njrdevs.com/blog/graduation/</guid>
       <description>About NJRDEVS Apps Solution</description>
     </item>
     <item>
       <title>Notes App</title>
-      <link>http://localhost:1313/blog/notes/</link>
+      <link>https://njrdevs.com/blog/notes/</link>
       <pubDate>Sun, 29 Sep 2024 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/blog/notes/</guid>
+      <guid>https://njrdevs.com/blog/notes/</guid>
       <description>About Notes App</description>
     </item>
     <item>
       <title>Who Am I?</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://njrdevs.com/about/</link>
       <pubDate>Sun, 15 Sep 2024 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://njrdevs.com/about/</guid>
       <description>All You need to know about Jhanarthananraja Nagaraja</description>
     </item>
     <item>
       <title>Achievements</title>
-      <link>http://localhost:1313/achievements/</link>
+      <link>https://njrdevs.com/achievements/</link>
       <pubDate>Tue, 23 Jul 2024 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/achievements/</guid>
+      <guid>https://njrdevs.com/achievements/</guid>
       <description>My Achievements</description>
     </item>
     <item>
       <title>NJRDEVS Apps Solutions</title>
-      <link>http://localhost:1313/blog/njrdevs_apps_solutions/</link>
+      <link>https://njrdevs.com/blog/njrdevs_apps_solutions/</link>
       <pubDate>Tue, 23 Jul 2024 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/blog/njrdevs_apps_solutions/</guid>
+      <guid>https://njrdevs.com/blog/njrdevs_apps_solutions/</guid>
       <description>About NJRDEVS Apps Solution</description>
     </item>
     <item>
       <title>Simple Chat UI Package for Flutter</title>
-      <link>http://localhost:1313/blog/simple_chat_ui/</link>
+      <link>https://njrdevs.com/blog/simple_chat_ui/</link>
       <pubDate>Sun, 27 Aug 2023 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/blog/simple_chat_ui/</guid>
+      <guid>https://njrdevs.com/blog/simple_chat_ui/</guid>
       <description>About Simple Chat UI Package</description>
     </item>
   </channel>
