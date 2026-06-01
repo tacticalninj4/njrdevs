@@ -13,11 +13,11 @@
     <language>en-us</language>
     <atom:link href="https://njrdevs.com/tags/financial-dashboard/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Financier</title>
-      <link>https://njrdevs.com/projects/financier/</link>
+      <title>MyDuit</title>
+      <link>https://njrdevs.com/projects/myduit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://njrdevs.com/projects/financier/</guid>
-      <description>Financier | Your Money, Simplified.</description>
+      <guid>https://njrdevs.com/projects/myduit/</guid>
+      <description>MyDuit | Your Money, Simplified.</description>
     </item>
   </channel>
 </rss>

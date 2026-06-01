@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://njrdevs.com/projects/financier/</loc>
+    <loc>https://njrdevs.com/projects/myduit/</loc>
   </url><url>
     <loc>https://njrdevs.com/projects/notes/</loc>
   </url><url>
@@ -447,8 +447,6 @@
   </url><url>
     <loc>https://njrdevs.com/tags/financial-software/</loc>
   </url><url>
-    <loc>https://njrdevs.com/tags/financier/</loc>
-  </url><url>
     <loc>https://njrdevs.com/tags/firebase-integration/</loc>
   </url><url>
     <loc>https://njrdevs.com/tags/flutter-development/</loc>
@@ -512,6 +510,8 @@
     <loc>https://njrdevs.com/tags/money-management-system/</loc>
   </url><url>
     <loc>https://njrdevs.com/tags/multi-currency-support/</loc>
+  </url><url>
+    <loc>https://njrdevs.com/tags/myduit/</loc>
   </url><url>
     <loc>https://njrdevs.com/tags/note-categories/</loc>
   </url><url>
