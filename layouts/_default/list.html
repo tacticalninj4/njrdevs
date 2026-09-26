@@ -1,0 +1,19 @@
+{{ define "main" }}
+<section class="article-head">
+  <h1 class="article-title display">{{ .Title }}</h1>
+  <div class="article-meta">
+    <span>{{ len .Pages }} entries</span>
+  </div>
+</section>
+<div>
+  {{ range .Pages }}
+  <a class="index-row" href="{{ .RelPermalink }}">
+    <span class="index-num">→</span>
+    <span class="index-body">
+      <h3>{{ .Title }}</h3>
+      {{ with .Date }}{{ if not .IsZero }}<span class="index-meta">{{ .Format "Jan 02, 2006" }}</span>{{ end }}{{ end }}
+    </span>
+  </a>
+  {{ end }}
+</div>
+{{ end }}

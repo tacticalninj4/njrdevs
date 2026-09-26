@@ -21,29 +21,29 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 # cover:
-#     image: "<image path/url>" # image path/url
-#     alt: "<alt text>" # alt text
-#     caption: "<text>" # display caption under cover
-#     relative: false # when using page bundles set this to true
-#     hidden: true # only hide on current single page
+# image: "<image path/url>" # image path/url
+# alt: "<alt text>" # alt text
+# caption: "<text>" # display caption under cover
+# relative: false # when using page bundles set this to true
+# hidden: true # only hide on current single page
 ---
 
 
 
-# My Achievements  
+# My Achievements
 
-Hi 👋! I'm **Jhanarthananraja**, an ambitious **Flutter Developer**!  
+Hi! I'm **Jhanarthananraja**, an ambitious **Flutter Developer**!
 
-## Top Achievements  
+## Top Achievements
 
-- ### 🥉 **Winner: CHIPTATECH 2023 by MAMPU**  
-**CHIPTATECH** is a prestigious hackathon organized by the **Prime Minister’s Department** under the **Malaysian Administrative Modernization and Management Planning Unit (MAMPU)**.  
+- ### **Winner: CHIPTATECH 2023 by MAMPU**
+**CHIPTATECH** is a prestigious hackathon organized by the **Prime Minister’s Department** under the **Malaysian Administrative Modernization and Management Planning Unit (MAMPU)**.
 
-- ### 🎖 **Participation: MYStartup Hackathon**  
-**MYStartup Hackathon** is a national-level competition organized by **MYStartup** in partnership with **PETRONAS Digital Sdn. Bhd.**  
+- ### **Participation: MYStartup Hackathon**
+**MYStartup Hackathon** is a national-level competition organized by **MYStartup** in partnership with **PETRONAS Digital Sdn. Bhd.**
 
-- ### 🏆 **Winner: Students Project Innovation Competition Exhibition (SPICE) 2019**  
-The **Students Project Innovation Competition and Exhibition (SPICE)** is a national competition hosted by **Politeknik Ungku Omar**, showcasing innovative student projects.  
+- ### **Winner: Students Project Innovation Competition Exhibition (SPICE) 2019**
+The **Students Project Innovation Competition and Exhibition (SPICE)** is a national competition hosted by **Politeknik Ungku Omar**, showcasing innovative student projects.
 
-- ### 🏆 **Winner: Mechanical Engineering Department Students Project Exhibition Competition (MEDSpec) 2019**  
-The **Mechanical Engineering Department Students Project Exhibition Competition (MEDSpec)** is a Final Year Project Competition held at **Politeknik Ungku Omar**, celebrating top projects from graduating students.  
+- ### **Winner: Mechanical Engineering Department Students Project Exhibition Competition (MEDSpec) 2019**
+The **Mechanical Engineering Department Students Project Exhibition Competition (MEDSpec)** is a Final Year Project Competition held at **Politeknik Ungku Omar**, celebrating top projects from graduating students.

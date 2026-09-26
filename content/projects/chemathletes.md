@@ -1,5 +1,7 @@
 ---
 title: "Chemathletes"
+summary: "Practice coach for the maths-heavy chapters of Form 4 Chemistry."
+stack: ["Flutter", "Education"]
 weight: 98
 # aliases: ["/first"]
 tags: ["Chemathletes", "Form 4 Chemistry", "Mathematical Chemistry", "Mole Concept", "Chemical Equations", "Acid Base Chemistry", "Rate of Reaction", "Malaysian Syllabus", "Chemistry App", "Education Technology", "Student Learning Tools", "Exam Preparation", "Chemistry Calculations", "Personal Coach", "Simplified Learning", "24/7 Study Companion", "Focused Chemistry Learning", "Academic Excellence"]
@@ -20,11 +22,11 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 cover:
-    image: "chemathletes.png" # image path/url
-#     alt: "<alt text>" # alt text
-#     caption: "<text>" # display caption under cover
-#     relative: false # when using page bundles set this to true
-#     hidden: true # only hide on current single page
+ image: "chemathletes.png" # image path/url
+# alt: "<alt text>" # alt text
+# caption: "<text>" # display caption under cover
+# relative: false # when using page bundles set this to true
+# hidden: true # only hide on current single page
 
 ---
 

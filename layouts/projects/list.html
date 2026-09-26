@@ -1,0 +1,25 @@
+{{ define "main" }}
+<section class="article-head">
+  <h1 class="article-title display">{{ .Title }}</h1>
+  <div class="article-meta">
+    <span>{{ len .Pages }} entries</span>
+    <span>Index / {{ .Title }}</span>
+  </div>
+</section>
+<div class="card-grid">
+  {{ range sort .Pages "Weight" }}
+  {{ $title := .Title }}
+  <a class="card" href="{{ .RelPermalink }}">
+    {{ with .Params.cover }}
+    {{ with resources.Get .image }}
+    <span class="card-cover"><img src="{{ .RelPermalink }}" alt="{{ $title }}" loading="lazy"></span>
+    {{ end }}
+    {{ end }}
+    <span class="card-body">
+      <h3>{{ .Title }}</h3>
+      <span class="card-meta">{{ with .Params.tags }}{{ delimit (first 3 .) " / " }}{{ end }}</span>
+    </span>
+  </a>
+  {{ end }}
+</div>
+{{ end }}

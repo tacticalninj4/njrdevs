@@ -1,5 +1,6 @@
 ---
 title: "Notes App"
+summary: "A simple notes app built with Flutter: categories, checklists and locked notes."
 date: 2024-09-29T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -21,11 +22,11 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 # cover:
-#     image: "<image path/url>" # image path/url
-#     alt: "<alt text>" # alt text
-#     caption: "<text>" # display caption under cover
-#     relative: false # when using page bundles set this to true
-#     hidden: true # only hide on current single page
+# image: "<image path/url>" # image path/url
+# alt: "<alt text>" # alt text
+# caption: "<text>" # display caption under cover
+# relative: false # when using page bundles set this to true
+# hidden: true # only hide on current single page
 ---
 
 # Notes
@@ -58,24 +59,24 @@ A simple notes app built using Flutter.
 
 1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/tacticalninj4/notes.git
-   ```
+ ```bash
+ git clone https://github.com/tacticalninj4/notes.git
+ ```
 2. Navigate to the project directory:
 
-   ```bash
-   cd notes
-   ```
+ ```bash
+ cd notes
+ ```
 3. Install dependencies:
 
-   ```bash
-   flutter pub get
-   ```
+ ```bash
+ flutter pub get
+ ```
 4. Run the app:
 
-   ```bash
-   flutter run
-   ```
+ ```bash
+ flutter run
+ ```
 
 ---
 

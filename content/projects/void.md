@@ -1,5 +1,7 @@
 ---
 title: "Void"
+summary: "Final-year project management for students and coordinators, replacing WhatsApp threads."
+stack: ["Android", "Java"]
 weight: 99
 # aliases: ["/first"]
 tags: ["Void App", "Student Project Management", "Final-Year Projects", "Project Coordinators", "Android App Development", "Mechanical Department", "Ungku Omar Polytechnic", "Education Technology", "Efficiency in Education", "Streamlined Communication", "Java Programming", "Android Platform", "User Interface Design", "Adobe XD", "Adobe Photoshop", "Project Management Tools", "Higher Education Solutions", "Innovative Applications", "Academic Productivity"]
@@ -20,11 +22,11 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 cover:
-    image: "void.png" # image path/url
-#     alt: "<alt text>" # alt text
-#     caption: "<text>" # display caption under cover
-#     relative: false # when using page bundles set this to true
-#     hidden: true # only hide on current single page
+ image: "void.png" # image path/url
+# alt: "<alt text>" # alt text
+# caption: "<text>" # display caption under cover
+# relative: false # when using page bundles set this to true
+# hidden: true # only hide on current single page
 
 ---
 

@@ -1,0 +1,19 @@
+<footer class="site-footer">
+  <div class="footer-grid">
+    <div>
+      <p class="footer-brand">{{ site.Params.brand | default site.Title }} ®</p>
+      <p class="label" style="margin-top: 1rem;">{{ site.Params.description }}</p>
+    </div>
+    <div class="footer-links">
+      <a href="mailto:{{ site.Params.email }}">Email</a>
+      <a href="{{ site.Params.linkedin }}" rel="noopener">LinkedIn</a>
+      <a href="{{ site.Params.github }}" rel="noopener">GitHub</a>
+      <a href="{{ site.Params.resume }}" rel="noopener">Resume</a>
+      <a href="{{ `index.xml` | absURL }}">RSS</a>
+    </div>
+  </div>
+  <div class="footer-legal">
+    <span>© {{ now.Format "2006" }} {{ site.Params.author }}</span>
+    <span>Ipoh, Perak, Malaysia — All rights reserved</span>
+  </div>
+</footer>

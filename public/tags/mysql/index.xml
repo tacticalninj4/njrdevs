@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MySQL on Jhanarthananraja Nagaraja</title>
     <link>https://njrdevs.com/tags/mysql/</link>
     <description>Recent content in MySQL on Jhanarthananraja Nagaraja</description>
-    <image>
-      <title>Jhanarthananraja Nagaraja</title>
-      <url>https://njrdevs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://njrdevs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.154.5</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Sep 2024 11:30:03 +0000</lastBuildDate>
     <atom:link href="https://njrdevs.com/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +13,7 @@
       <link>https://njrdevs.com/about/</link>
       <pubDate>Sun, 15 Sep 2024 11:30:03 +0000</pubDate>
       <guid>https://njrdevs.com/about/</guid>
-      <description>All You need to know about Jhanarthananraja Nagaraja</description>
+      <description>&lt;h2 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h2&gt;&#xA;&lt;p&gt;+6012 6442616 | &lt;a href=&#34;mailto:jhanarthananraja@gmail.com&#34;&gt;jhanarthananraja@gmail.com&lt;/a&gt; | Ipoh, 31300, Perak&#xA;&lt;a href=&#34;http://njrdevs.com&#34;&gt;njrdevs.com&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/in/jhanarthananraja/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;professional-summary&#34;&gt;Professional Summary&lt;/h2&gt;&#xA;&lt;p&gt;Result-driven Mobile App Developer with over four years of experience specializing in Flutter, recognized for delivering innovative and high-quality applications. Leveraging a strong foundation in programming languages such as Python and Golang, I excel in crafting seamless user experiences and developing robust backend solutions. Proficient in a diverse array of technologies, including Laravel, Firebase, and MySQL, I am dedicated to utilizing my technical acumen to address complex challenges and enhance user engagement, ensuring alignment with best practices and industry standards.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

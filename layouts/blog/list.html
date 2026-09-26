@@ -1,0 +1,20 @@
+{{ define "main" }}
+<section class="article-head">
+  <h1 class="article-title display">{{ .Title }}</h1>
+  <div class="article-meta">
+    <span>{{ len .Pages }} entries</span>
+    <span>Index / {{ .Title }}</span>
+  </div>
+</section>
+<div>
+  {{ range .Pages.ByDate.Reverse }}
+  <a class="index-row" href="{{ .RelPermalink }}">
+    <span class="index-num">{{ .Date.Format "02" }}</span>
+    <span class="index-body">
+      <h3>{{ .Title }}</h3>
+      <span class="index-meta">{{ .Date.Format "Jan 2006" }}{{ with .Params.description }} — {{ . }}{{ end }}</span>
+    </span>
+  </a>
+  {{ end }}
+</div>
+{{ end }}

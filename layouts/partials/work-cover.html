@@ -1,0 +1,1 @@
+{{ $title := .Title }}{{ with .Params.cover }}{{ with resources.Get .image }}<span class="work-cover"><img src="{{ .RelPermalink }}" alt="{{ $title }}" loading="lazy"></span>{{ end }}{{ end }}

@@ -1,0 +1,25 @@
+{{ define "main" }}
+<article>
+  <header class="article-head">
+    <h1 class="article-title display">{{ .Title }}</h1>
+    <div class="article-meta">
+      {{ with .Date }}{{ if not .IsZero }}<span>{{ .Format "Jan 02, 2006" }}</span>{{ end }}{{ end }}
+      <span>{{ .ReadingTime }} min read</span>
+      {{ range first 5 .Params.tags }}<a href="{{ "/tags/" | relURL }}{{ . | urlize }}/">{{ . }}</a>{{ end }}
+    </div>
+  </header>
+  {{ with .Params.cover }}
+  {{ $title := $.Title }}
+  {{ with resources.Get .image }}
+  <figure class="article-cover"><img src="{{ .RelPermalink }}" alt="{{ $title }}"></figure>
+  {{ end }}
+  {{ end }}
+  <div class="article-body">
+    {{ .Content }}
+  </div>
+  <nav class="pager" aria-label="Post navigation">
+    <span>{{ with .PrevInSection }}<a href="{{ .RelPermalink }}">← {{ .Title }}</a>{{ end }}</span>
+    <span>{{ with .NextInSection }}<a href="{{ .RelPermalink }}">{{ .Title }} →</a>{{ end }}</span>
+  </nav>
+</article>
+{{ end }}

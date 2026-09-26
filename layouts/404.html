@@ -1,0 +1,48 @@
+{{ define "main" }}
+<section class="error-hero">
+  <div class="error-status label">
+    <span>ERR / PAGE_NOT_FOUND</span>
+    <span>STATUS / 404</span>
+    <span>REV {{ now.Format "2006" }}</span>
+  </div>
+  <p class="error-code display">404</p>
+  <p class="error-tagline">This page does not exist. It never did, or it was moved.<br>Either way — you are off the map.</p>
+</section>
+
+<section class="section">
+  <div class="section-head">
+    <h2>Where to go</h2>
+    <span class="label"><a href="{{ site.Home.RelPermalink }}">Back to index →</a></span>
+  </div>
+  <div>
+    <a class="index-row" href="{{ site.Home.RelPermalink }}">
+      <span class="index-num">01</span>
+      <span class="index-body">
+        <h3>Index</h3>
+        <span class="index-meta">The front door</span>
+      </span>
+    </a>
+    <a class="index-row" href="{{ "/projects/" | relURL }}">
+      <span class="index-num">02</span>
+      <span class="index-body">
+        <h3>Projects</h3>
+        <span class="index-meta">Selected work</span>
+      </span>
+    </a>
+    <a class="index-row" href="{{ "/blog/" | relURL }}">
+      <span class="index-num">03</span>
+      <span class="index-body">
+        <h3>Writing</h3>
+        <span class="index-meta">Notes and posts</span>
+      </span>
+    </a>
+    <a class="index-row" href="{{ "/search/" | relURL }}">
+      <span class="index-num">04</span>
+      <span class="index-body">
+        <h3>Search</h3>
+        <span class="index-meta">Find anything on the site</span>
+      </span>
+    </a>
+  </div>
+</section>
+{{ end }}

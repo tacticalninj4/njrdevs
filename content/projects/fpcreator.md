@@ -1,5 +1,7 @@
 ---
 title: "FP Creator"
+summary: "Windows app that creates and manages Flutter projects without the command line."
+stack: ["Flutter", "Windows"]
 weight: 96
 # aliases: ["/first"]
 tags: ["FPCreator", "Flutter Project Management", "Mobile App Development", "Flutter Tools", "Windows Applications", "Package Management", "Pub.dev Integration", "Visual Studio Code", "Developer Productivity", "Project Templates", "Custom Themes", "Streamlined Development", "Flutter Framework", "Coding Efficiency", "Command-Line Alternatives", "App Development Tools", "Software Development", "Developer Tools", "Flutter Ecosystem"]
@@ -20,11 +22,11 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 cover:
-    image: "fpcreator.png" # image path/url
-#     alt: "<alt text>" # alt text
-#     caption: "<text>" # display caption under cover
-#     relative: false # when using page bundles set this to true
-#     hidden: true # only hide on current single page
+ image: "fpcreator.png" # image path/url
+# alt: "<alt text>" # alt text
+# caption: "<text>" # display caption under cover
+# relative: false # when using page bundles set this to true
+# hidden: true # only hide on current single page
 ---
 ## Introducing FPCreator: Simplifying Flutter Project Management for Developers
 

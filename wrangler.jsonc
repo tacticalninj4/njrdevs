@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "njrdevs",
+  "compatibility_date": "2026-09-25",
+  "observability": {
+    "enabled": true
+  },
+  // Hugo build output: run `hugo --minify` before `wrangler deploy`
+  "assets": {
+    "directory": "public",
+    "not_found_handling": "404-page"
+  }
+}

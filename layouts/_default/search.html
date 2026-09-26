@@ -1,0 +1,17 @@
+{{ define "main" }}
+<section class="article-head">
+  <h1 class="article-title display">Search</h1>
+  <div class="article-meta">
+    <span>Query / All pages</span>
+    <span id="search-status">Loading index…</span>
+  </div>
+</section>
+<div class="search-form">
+  <label class="label" for="search-input">Type to filter</label>
+  <input id="search-input" class="search-input" type="search" placeholder="SEARCH…" autocomplete="off" autofocus>
+</div>
+<div id="search-results" class="search-results">
+  <noscript><p class="search-noscript label">Search requires JavaScript. Browse <a href="{{ "/projects/" | relURL }}">Projects</a> or <a href="{{ "/blog/" | relURL }}">Writing</a> instead.</p></noscript>
+</div>
+<script src="{{ "/js/search.js" | relURL }}" defer></script>
+{{ end }}

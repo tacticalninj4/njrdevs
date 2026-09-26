@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Award Winner on Jhanarthananraja Nagaraja</title>
     <link>https://njrdevs.com/tags/award-winner/</link>
     <description>Recent content in Award Winner on Jhanarthananraja Nagaraja</description>
-    <image>
-      <title>Jhanarthananraja Nagaraja</title>
-      <url>https://njrdevs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://njrdevs.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.154.5</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Jul 2024 11:30:03 +0000</lastBuildDate>
     <atom:link href="https://njrdevs.com/tags/award-winner/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +13,7 @@
       <link>https://njrdevs.com/achievements/</link>
       <pubDate>Tue, 23 Jul 2024 11:30:03 +0000</pubDate>
       <guid>https://njrdevs.com/achievements/</guid>
-      <description>My Achievements</description>
+      <description>&lt;h1 id=&#34;my-achievements&#34;&gt;My Achievements&lt;/h1&gt;&#xA;&lt;p&gt;Hi! I&amp;rsquo;m &lt;strong&gt;Jhanarthananraja&lt;/strong&gt;, an ambitious &lt;strong&gt;Flutter Developer&lt;/strong&gt;!&lt;/p&gt;&#xA;&lt;h2 id=&#34;top-achievements&#34;&gt;Top Achievements&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h3 id=&#34;winner-chiptatech-2023-by-mampu&#34;&gt;&lt;strong&gt;Winner: CHIPTATECH 2023 by MAMPU&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;CHIPTATECH&lt;/strong&gt; is a prestigious hackathon organized by the &lt;strong&gt;Prime Minister’s Department&lt;/strong&gt; under the &lt;strong&gt;Malaysian Administrative Modernization and Management Planning Unit (MAMPU)&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h3 id=&#34;participation-mystartup-hackathon&#34;&gt;&lt;strong&gt;Participation: MYStartup Hackathon&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;MYStartup Hackathon&lt;/strong&gt; is a national-level competition organized by &lt;strong&gt;MYStartup&lt;/strong&gt; in partnership with &lt;strong&gt;PETRONAS Digital Sdn. Bhd.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h3 id=&#34;winner-students-project-innovation-competition-exhibition-spice-2019&#34;&gt;&lt;strong&gt;Winner: Students Project Innovation Competition Exhibition (SPICE) 2019&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Students Project Innovation Competition and Exhibition (SPICE)&lt;/strong&gt; is a national competition hosted by &lt;strong&gt;Politeknik Ungku Omar&lt;/strong&gt;, showcasing innovative student projects.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

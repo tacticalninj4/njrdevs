@@ -1,0 +1,14 @@
+{{ define "main" }}
+<article>
+  <header class="article-head">
+    <h1 class="article-title display">{{ .Title }}</h1>
+    <div class="article-meta">
+      <span>{{ site.Params.brand | default site.Title }}</span>
+      <span>{{ .ReadingTime }} min read</span>
+    </div>
+  </header>
+  <div class="article-body">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

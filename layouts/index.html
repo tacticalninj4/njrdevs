@@ -1,0 +1,72 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="hero-meta label">
+    <span>Portfolio — Rev {{ now.Format "2006" }}</span>
+    <span>Ipoh, Malaysia</span>
+    <span>Available for work</span>
+  </div>
+  <h1 class="hero-title display">{{ site.Params.heroTitle | default site.Title | safeHTML }}</h1>
+  <div class="hero-role">
+    <p class="role-statement">{{ site.Params.heroStatement }}</p>
+    <div class="role-detail">
+      <p>{{ site.Params.description }}</p>
+    </div>
+  </div>
+  <div class="hero-actions">
+    <a class="btn" href="{{ site.Params.resume }}" rel="noopener">Resume</a>
+    <a class="btn" href="mailto:{{ site.Params.email }}">Email</a>
+    <a class="btn" href="{{ "/projects/" | relURL }}">Projects</a>
+  </div>
+</section>
+
+<section class="section" id="projects">
+  {{ $projects := (where site.RegularPages "Section" "projects").ByWeight }}
+  <div class="section-head">
+    <h2>Selected Projects</h2>
+    <span class="label"><a href="{{ "/projects/" | relURL }}">All {{ len $projects }} projects →</a></span>
+  </div>
+  {{ with index $projects 0 }}
+  <a class="work-feature" href="{{ .RelPermalink }}">
+    {{ partial "work-cover.html" . }}
+    <span class="work-info">
+      <span class="label">01 — Featured</span>
+      <h3 class="display">{{ .Title }}</h3>
+      <p>{{ .Summary | plainify }}</p>
+      {{ partial "work-stack.html" . }}
+    </span>
+  </a>
+  {{ end }}
+  <div class="work-grid">
+    {{ range $i, $p := first 3 (after 1 $projects) }}
+    <a class="work-tile" href="{{ .RelPermalink }}">
+      {{ partial "work-cover.html" . }}
+      <span class="work-info">
+        <span class="label">{{ printf "%02d" (add $i 2) }}</span>
+        <h3>{{ .Title }}</h3>
+        {{ partial "work-stack.html" . }}
+      </span>
+    </a>
+    {{ end }}
+  </div>
+</section>
+
+<section class="section" id="writing">
+  <div class="section-head">
+    <h2>Writing</h2>
+    <span class="label"><a href="{{ "/blog/" | relURL }}">All posts →</a></span>
+  </div>
+  <div class="ledger">
+    <div class="ledger-row ledger-head label" aria-hidden="true"><span>Date</span><span>Title</span><span>Read</span></div>
+    {{ range first 4 (where site.RegularPages "Section" "blog").ByDate.Reverse }}
+    <a class="ledger-row" href="{{ .RelPermalink }}">
+      <time class="ledger-date" datetime="{{ .Date.Format "2006-01-02" }}"><b>{{ .Date.Format "2006" }}</b> {{ .Date.Format "Jan 02" }}</time>
+      <span class="ledger-body">
+        <h3>{{ .Title }}</h3>
+        <p>{{ .Summary | plainify }}</p>
+      </span>
+      <span class="ledger-read label">{{ .ReadingTime }} min →</span>
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

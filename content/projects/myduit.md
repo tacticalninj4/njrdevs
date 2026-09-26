@@ -1,38 +1,40 @@
 ---
 title: "MyDuit"
+summary: "Personal finance web app: bank accounts, cards, recurring payments and budgets in one dashboard."
+stack: ["Laravel 12", "Tailwind", "PostgreSQL"]
 weight: 94
 aliases: ["/projects/financier/"]
 tags: [
-  "MyDuit",
-  "Personal Finance Management",
-  "Money Management System",
-  "Expense Tracking",
-  "Budget Management",
-  "Financial Planning",
-  "Laravel Framework",
-  "Laravel 12",
-  "Tailwind CSS",
-  "DaisyUI",
-  "Web Application",
-  "Bank Account Management",
-  "Credit Card Tracking",
-  "Recurring Payments",
-  "Multi-Currency Support",
-  "Financial Analytics",
-  "Expense Categorization",
-  "Income Tracking",
-  "Budget vs Actual",
-  "Financial Reporting",
-  "Laravel Breeze",
-  "Blade Templates",
-  "PostgreSQL",
-  "Docker Deployment",
-  "Developer Tools",
-  "Financial Software",
-  "Personal Budgeting",
-  "Transaction Management",
-  "Account Transfers",
-  "Financial Dashboard"
+ "MyDuit",
+ "Personal Finance Management",
+ "Money Management System",
+ "Expense Tracking",
+ "Budget Management",
+ "Financial Planning",
+ "Laravel Framework",
+ "Laravel 12",
+ "Tailwind CSS",
+ "DaisyUI",
+ "Web Application",
+ "Bank Account Management",
+ "Credit Card Tracking",
+ "Recurring Payments",
+ "Multi-Currency Support",
+ "Financial Analytics",
+ "Expense Categorization",
+ "Income Tracking",
+ "Budget vs Actual",
+ "Financial Reporting",
+ "Laravel Breeze",
+ "Blade Templates",
+ "PostgreSQL",
+ "Docker Deployment",
+ "Developer Tools",
+ "Financial Software",
+ "Personal Budgeting",
+ "Transaction Management",
+ "Account Transfers",
+ "Financial Dashboard"
 ]
 showToc: true
 TocOpen: false
@@ -51,11 +53,11 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 cover:
-    image: "myduit.png" # image path/url
-#     alt: "<alt text>" # alt text
-#     caption: "<text>" # display caption under cover
-#     relative: false # when using page bundles set this to true
-#     hidden: true # only hide on current single page
+ image: "myduit.png" # image path/url
+# alt: "<alt text>" # alt text
+# caption: "<text>" # display caption under cover
+# relative: false # when using page bundles set this to true
+# hidden: true # only hide on current single page
 
 ---
 [MyDuit](https://myduit.my)

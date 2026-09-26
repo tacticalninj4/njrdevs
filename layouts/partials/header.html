@@ -1,0 +1,28 @@
+<header class="site-header">
+  <a class="site-brand" href="{{ site.Home.RelPermalink }}">{{ site.Params.brand | default site.Title }}</a>
+  <nav class="site-nav" id="site-nav" aria-label="Main">
+    {{ range site.Menus.main }}
+    {{ $active := or (eq $.RelPermalink .URL) (and (ne .URL "/") (hasPrefix $.RelPermalink .URL)) }}
+    <a href="{{ .URL }}"{{ if $active }} aria-current="page"{{ end }}>{{ .Name }}</a>
+    {{ end }}
+  </nav>
+  <button class="theme-toggle" type="button" hidden></button>
+  <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav" hidden>Menu</button>
+</header>
+<script>
+(function () {
+  var b = document.querySelector('.theme-toggle'), r = document.documentElement, m = matchMedia('(prefers-color-scheme: dark)');
+  function dark() { return (r.dataset.theme || (m.matches ? 'dark' : 'light')) === 'dark'; }
+  function sync() { var d = dark(); b.textContent = d ? 'Light' : 'Dark'; b.setAttribute('aria-label', 'Switch to ' + (d ? 'light' : 'dark') + ' mode'); }
+  b.onclick = function () { var t = dark() ? 'light' : 'dark'; r.dataset.theme = t; try { localStorage.setItem('theme', t); } catch (e) {} sync(); };
+  m.addEventListener('change', sync);
+  b.hidden = false;
+  sync();
+
+  // mobile: links collapse behind Menu. Without JS the grid just stays open
+  var h = document.querySelector('.site-header'), mb = document.querySelector('.menu-toggle');
+  mb.onclick = function () { var o = h.classList.toggle('menu-open'); mb.setAttribute('aria-expanded', o); mb.textContent = o ? 'Close' : 'Menu'; };
+  h.classList.add('has-menu');
+  mb.hidden = false;
+})();
+</script>

@@ -1,5 +1,7 @@
 ---
 title: "My Undang"
+summary: "Civic app for voting on policies and staying informed about Malaysian legislation."
+stack: ["Flutter", "Firebase", "Dialogflow"]
 weight: 95
 # aliases: ["/first"]
 tags: ["Notes", "Productivity", "Organization", "Task Management", "Privacy", "Dark Mode", "Checklist", "Customization", "Secure Notes", "Note Categories", "App Features", "Personalized Notes", "Note Rearranging", "Rich Content", "User Experience"]
@@ -20,11 +22,11 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 cover:
-    image: "myundang.png" # image path/url
-#     alt: "<alt text>" # alt text
-#     caption: "<text>" # display caption under cover
-#     relative: false # when using page bundles set this to true
-#     hidden: true # only hide on current single page
+ image: "myundang.png" # image path/url
+# alt: "<alt text>" # alt text
+# caption: "<text>" # display caption under cover
+# relative: false # when using page bundles set this to true
+# hidden: true # only hide on current single page
 
 ---
 

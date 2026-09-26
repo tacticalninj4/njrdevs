@@ -1,5 +1,7 @@
 ---
 title: "MERSPlus"
+summary: "Dispatches nearby medical professionals to emergencies while the ambulance is on its way."
+stack: ["Flutter", "Firebase", "Google Maps"]
 weight: 97
 # aliases: ["/first"]
 tags: ["Emergency Response", "MERSPlus", "Healthcare Innovation", "Malaysia", "Ambulance Response Time", "Medical Professionals", "Flutter Development", "Firebase Integration", "Google Maps Platform", "Life-Saving Technology", "CPR Certification", "Emergency Medical Services", "Real-Time Location Tracking", "Go Programming Language", "Identity Verification", "Facial Recognition", "OCR Technology", "Healthcare Solutions", "MERS 999 Operators"]
@@ -20,11 +22,11 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 cover:
-    image: "mersplus.png" # image path/url
-#     alt: "<alt text>" # alt text
-#     caption: "<text>" # display caption under cover
-#     relative: false # when using page bundles set this to true
-#     hidden: true # only hide on current single page
+ image: "mersplus.png" # image path/url
+# alt: "<alt text>" # alt text
+# caption: "<text>" # display caption under cover
+# relative: false # when using page bundles set this to true
+# hidden: true # only hide on current single page
 
 ---
 

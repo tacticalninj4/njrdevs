@@ -21,18 +21,18 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 # cover:
-#     image: "<image path/url>" # image path/url
-#     alt: "<alt text>" # alt text
-#     caption: "<text>" # display caption under cover
-#     relative: false # when using page bundles set this to true
-#     hidden: true # only hide on current single page
+# image: "<image path/url>" # image path/url
+# alt: "<alt text>" # alt text
+# caption: "<text>" # display caption under cover
+# relative: false # when using page bundles set this to true
+# hidden: true # only hide on current single page
 
 ---
 
 ## Contact Information
 
-📞 +6012 6442616 | 📧 [jhanarthananraja@gmail.com](mailto:jhanarthananraja@gmail.com) | 🏠 Ipoh, 31300, Perak  
-🌐 [njrdevs.com](http://njrdevs.com) | [LinkedIn](https://www.linkedin.com/in/jhanarthananraja/)
+ +6012 6442616 | [jhanarthananraja@gmail.com](mailto:jhanarthananraja@gmail.com) | Ipoh, 31300, Perak
+ [njrdevs.com](http://njrdevs.com) | [LinkedIn](https://www.linkedin.com/in/jhanarthananraja/)
 
 ---
 
@@ -44,19 +44,19 @@ Result-driven Mobile App Developer with over four years of experience specializi
 
 ## Experience
 
-**Freelance Software Developer, Self Employed**  
+**Freelance Software Developer, Self Employed**
 _Jan 2020 - Present_
 
 - **Grocer App**: Created a mobile application enabling users to compare prices and manage grocery lists, improving budget management and shopping efficiency.
 - **MyUndang App**: Designed and implemented a civic engagement application, allowing Malaysians to vote on policies, stay informed, and actively participate in governance.
 - **Chemathletes App**: Developed an educational app for Malaysian Form 4 Chemistry students, facilitating mastery of mathematical chemistry problems through targeted exercises.
 - **Additional Projects**: Delivered a range of solutions, including:
-  - **SuperDobi**: Streamlined laundromat operations through an efficient management system.
-  - **Sares MapTech**: Enabled quick assistance for users in emergency situations with GPS tracking.
-  - **Attendance**: Automated attendance tracking with facial recognition.
-  - **RideShare**: Enhanced commute options and sustainability through shared transportation solutions.
+ - **SuperDobi**: Streamlined laundromat operations through an efficient management system.
+ - **Sares MapTech**: Enabled quick assistance for users in emergency situations with GPS tracking.
+ - **Attendance**: Automated attendance tracking with facial recognition.
+ - **RideShare**: Enhanced commute options and sustainability through shared transportation solutions.
 
-**Intern Flutter Developer, QI Services (M) Sdn Bhd**  
+**Intern Flutter Developer, QI Services (M) Sdn Bhd**
 _Nov 2023 - Apr 2024_
 
 - **Fingerprint Authentication**: Enhanced user login experience by streamlining the authentication process, significantly reducing login times.
@@ -68,13 +68,13 @@ _Nov 2023 - Apr 2024_
 
 ## Education
 
-- **Bachelor of Computer Science**  
-  _Quest International University_  
-  _Oct 2020 - Nov 2024_
+- **Bachelor of Computer Science**
+ _Quest International University_
+ _Oct 2020 - Nov 2024_
 
-- **Diploma in Mechatronic Engineering**  
-  _Politeknik Ungku Omar (PUO)_  
-  _July 2017 - May 2020_
+- **Diploma in Mechatronic Engineering**
+ _Politeknik Ungku Omar (PUO)_
+ _July 2017 - May 2020_
 
 ---
 

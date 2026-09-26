@@ -46,3 +46,9 @@ node_modules/
 # Backup files
 *.bak
 *.backup
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
