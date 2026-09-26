@@ -14,9 +14,10 @@ minify:
 params:
   brand: NJRDEVS
   author: Jhanarthananraja Nagaraja
-  description: "Founder, Njrdevs Apps Solution | 4+ Flutter | Fullstack | Freelancer"
+  role: Fullstack Developer
+  description: "Fullstack Developer | Founder, NJRDEVS Apps Solution | 4+ years shipping web & mobile"
   heroTitle: Jhanarthananraja<br>Nagaraja
-  heroStatement: Mobile & fullstack developer shipping apps people actually use.
+  heroStatement: Web, mobile and backend. Built and shipped end to end.
   email: jhanarthananraja@gmail.com
   linkedin: https://www.linkedin.com/in/jhanarthananraja/
   github: https://github.com/tacticalninj4

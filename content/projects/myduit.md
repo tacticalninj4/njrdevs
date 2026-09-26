@@ -2,7 +2,7 @@
 title: "MyDuit"
 summary: "Personal finance web app: bank accounts, cards, recurring payments and budgets in one dashboard."
 stack: ["Laravel 12", "Tailwind", "PostgreSQL"]
-weight: 94
+weight: 10
 aliases: ["/projects/financier/"]
 tags: [
  "MyDuit",

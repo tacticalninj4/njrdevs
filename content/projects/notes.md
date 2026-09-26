@@ -2,7 +2,7 @@
 title: "Notes"
 summary: "Open-source notes app with categories, checklists, locked notes and dark mode."
 stack: ["Flutter", "Dart"]
-weight: 94
+weight: 50
 # aliases: ["/first"]
 tags: ["FPCreator", "Flutter Project Management", "Mobile App Development", "Flutter Tools", "Windows Applications", "Package Management", "Pub.dev Integration", "Visual Studio Code", "Developer Productivity", "Project Templates", "Custom Themes", "Streamlined Development", "Flutter Framework", "Coding Efficiency", "Command-Line Alternatives", "App Development Tools", "Software Development", "Developer Tools", "Flutter Ecosystem"]
 showToc: true

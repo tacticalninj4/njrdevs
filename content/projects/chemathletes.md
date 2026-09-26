@@ -2,7 +2,7 @@
 title: "Chemathletes"
 summary: "Practice coach for the maths-heavy chapters of Form 4 Chemistry."
 stack: ["Flutter", "Education"]
-weight: 98
+weight: 70
 # aliases: ["/first"]
 tags: ["Chemathletes", "Form 4 Chemistry", "Mathematical Chemistry", "Mole Concept", "Chemical Equations", "Acid Base Chemistry", "Rate of Reaction", "Malaysian Syllabus", "Chemistry App", "Education Technology", "Student Learning Tools", "Exam Preparation", "Chemistry Calculations", "Personal Coach", "Simplified Learning", "24/7 Study Companion", "Focused Chemistry Learning", "Academic Excellence"]
 showToc: true

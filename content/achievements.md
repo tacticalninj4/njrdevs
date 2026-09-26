@@ -32,7 +32,7 @@ UseHugoToc: false
 
 # My Achievements
 
-Hi! I'm **Jhanarthananraja**, an ambitious **Flutter Developer**!
+Hi! I'm **Jhanarthananraja**, a **Fullstack Developer**!
 
 ## Top Achievements
 

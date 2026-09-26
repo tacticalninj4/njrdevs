@@ -16,6 +16,13 @@
       <description>Civic app for voting on policies and staying informed about Malaysian legislation.</description>
     </item>
     <item>
+      <title>NJRDEVS.com</title>
+      <link>https://njrdevs.com/projects/njrdevs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://njrdevs.com/projects/njrdevs/</guid>
+      <description>This site: a hand-built design system on Hugo, deployed to Cloudflare&amp;rsquo;s edge with custom domains, dark mode and cache-safe assets.</description>
+    </item>
+    <item>
       <title>Notes App</title>
       <link>https://njrdevs.com/blog/notes/</link>
       <pubDate>Sun, 29 Sep 2024 11:30:03 +0000</pubDate>

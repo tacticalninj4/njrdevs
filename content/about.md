@@ -38,7 +38,7 @@ UseHugoToc: false
 
 ## Professional Summary
 
-Result-driven Mobile App Developer with over four years of experience specializing in Flutter, recognized for delivering innovative and high-quality applications. Leveraging a strong foundation in programming languages such as Python and Golang, I excel in crafting seamless user experiences and developing robust backend solutions. Proficient in a diverse array of technologies, including Laravel, Firebase, and MySQL, I am dedicated to utilizing my technical acumen to address complex challenges and enhance user engagement, ensuring alignment with best practices and industry standards.
+Fullstack developer with over four years of experience shipping products end to end — from Flutter and SvelteKit frontends to Laravel, FastAPI and Golang backends, on PostgreSQL, MySQL and Firebase, deployed with Docker and Cloudflare. As founder of NJRDEVS Apps Solution, I take projects from idea to production: data models, APIs, admin dashboards, mobile and web clients, and the infrastructure that keeps them running.
 
 ---
 
@@ -80,7 +80,11 @@ _Nov 2023 - Apr 2024_
 
 ## Skills & Competencies
 
-Flutter, Python, Golang, Laravel, SvelteKit, WordPress, Firebase, MySQL, Prisma ORM, REST API, FastAPI, Typesense, Cloudflare DNS & Pages, Google Play Console, App Store Connect, Figma, Problem Solving, Team Collaboration, Time Management.
+- **Frontend:** Flutter, SvelteKit, Tailwind CSS, WordPress, Figma
+- **Backend:** Laravel, FastAPI, Golang, Python, REST APIs
+- **Data:** PostgreSQL, MySQL, Firebase, Prisma ORM, Typesense
+- **DevOps & platforms:** Docker, Cloudflare (DNS, Pages, Workers), Google Play Console, App Store Connect
+- **Ways of working:** Problem solving, team collaboration, time management
 
 ---
 

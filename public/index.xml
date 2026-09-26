@@ -16,11 +16,11 @@
       <description>Personal finance web app: bank accounts, cards, recurring payments and budgets in one dashboard.</description>
     </item>
     <item>
-      <title>Notes</title>
-      <link>https://njrdevs.com/projects/notes/</link>
+      <title>MERSPlus</title>
+      <link>https://njrdevs.com/projects/mersplus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://njrdevs.com/projects/notes/</guid>
-      <description>Open-source notes app with categories, checklists, locked notes and dark mode.</description>
+      <guid>https://njrdevs.com/projects/mersplus/</guid>
+      <description>Mobile app and operator website that dispatch nearby medical professionals to emergencies while the ambulance is on its way.</description>
     </item>
     <item>
       <title>My Undang</title>
@@ -30,18 +30,25 @@
       <description>Civic app for voting on policies and staying informed about Malaysian legislation.</description>
     </item>
     <item>
+      <title>NJRDEVS.com</title>
+      <link>https://njrdevs.com/projects/njrdevs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://njrdevs.com/projects/njrdevs/</guid>
+      <description>This site: a hand-built design system on Hugo, deployed to Cloudflare&amp;rsquo;s edge with custom domains, dark mode and cache-safe assets.</description>
+    </item>
+    <item>
+      <title>Notes</title>
+      <link>https://njrdevs.com/projects/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://njrdevs.com/projects/notes/</guid>
+      <description>Open-source notes app with categories, checklists, locked notes and dark mode.</description>
+    </item>
+    <item>
       <title>FP Creator</title>
       <link>https://njrdevs.com/projects/fpcreator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://njrdevs.com/projects/fpcreator/</guid>
       <description>Windows app that creates and manages Flutter projects without the command line.</description>
-    </item>
-    <item>
-      <title>MERSPlus</title>
-      <link>https://njrdevs.com/projects/mersplus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://njrdevs.com/projects/mersplus/</guid>
-      <description>Dispatches nearby medical professionals to emergencies while the ambulance is on its way.</description>
     </item>
     <item>
       <title>Chemathletes</title>
@@ -76,14 +83,14 @@
       <link>https://njrdevs.com/about/</link>
       <pubDate>Sun, 15 Sep 2024 11:30:03 +0000</pubDate>
       <guid>https://njrdevs.com/about/</guid>
-      <description>&lt;h2 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h2&gt;&#xA;&lt;p&gt;+6012 6442616 | &lt;a href=&#34;mailto:jhanarthananraja@gmail.com&#34;&gt;jhanarthananraja@gmail.com&lt;/a&gt; | Ipoh, 31300, Perak&#xA;&lt;a href=&#34;http://njrdevs.com&#34;&gt;njrdevs.com&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/in/jhanarthananraja/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;professional-summary&#34;&gt;Professional Summary&lt;/h2&gt;&#xA;&lt;p&gt;Result-driven Mobile App Developer with over four years of experience specializing in Flutter, recognized for delivering innovative and high-quality applications. Leveraging a strong foundation in programming languages such as Python and Golang, I excel in crafting seamless user experiences and developing robust backend solutions. Proficient in a diverse array of technologies, including Laravel, Firebase, and MySQL, I am dedicated to utilizing my technical acumen to address complex challenges and enhance user engagement, ensuring alignment with best practices and industry standards.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h2&gt;&#xA;&lt;p&gt;+6012 6442616 | &lt;a href=&#34;mailto:jhanarthananraja@gmail.com&#34;&gt;jhanarthananraja@gmail.com&lt;/a&gt; | Ipoh, 31300, Perak&#xA;&lt;a href=&#34;http://njrdevs.com&#34;&gt;njrdevs.com&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/in/jhanarthananraja/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;professional-summary&#34;&gt;Professional Summary&lt;/h2&gt;&#xA;&lt;p&gt;Fullstack developer with over four years of experience shipping products end to end — from Flutter and SvelteKit frontends to Laravel, FastAPI and Golang backends, on PostgreSQL, MySQL and Firebase, deployed with Docker and Cloudflare. As founder of NJRDEVS Apps Solution, I take projects from idea to production: data models, APIs, admin dashboards, mobile and web clients, and the infrastructure that keeps them running.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Achievements</title>
       <link>https://njrdevs.com/achievements/</link>
       <pubDate>Tue, 23 Jul 2024 11:30:03 +0000</pubDate>
       <guid>https://njrdevs.com/achievements/</guid>
-      <description>&lt;h1 id=&#34;my-achievements&#34;&gt;My Achievements&lt;/h1&gt;&#xA;&lt;p&gt;Hi! I&amp;rsquo;m &lt;strong&gt;Jhanarthananraja&lt;/strong&gt;, an ambitious &lt;strong&gt;Flutter Developer&lt;/strong&gt;!&lt;/p&gt;&#xA;&lt;h2 id=&#34;top-achievements&#34;&gt;Top Achievements&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h3 id=&#34;winner-chiptatech-2023-by-mampu&#34;&gt;&lt;strong&gt;Winner: CHIPTATECH 2023 by MAMPU&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;CHIPTATECH&lt;/strong&gt; is a prestigious hackathon organized by the &lt;strong&gt;Prime Minister’s Department&lt;/strong&gt; under the &lt;strong&gt;Malaysian Administrative Modernization and Management Planning Unit (MAMPU)&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h3 id=&#34;participation-mystartup-hackathon&#34;&gt;&lt;strong&gt;Participation: MYStartup Hackathon&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;MYStartup Hackathon&lt;/strong&gt; is a national-level competition organized by &lt;strong&gt;MYStartup&lt;/strong&gt; in partnership with &lt;strong&gt;PETRONAS Digital Sdn. Bhd.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h3 id=&#34;winner-students-project-innovation-competition-exhibition-spice-2019&#34;&gt;&lt;strong&gt;Winner: Students Project Innovation Competition Exhibition (SPICE) 2019&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Students Project Innovation Competition and Exhibition (SPICE)&lt;/strong&gt; is a national competition hosted by &lt;strong&gt;Politeknik Ungku Omar&lt;/strong&gt;, showcasing innovative student projects.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;my-achievements&#34;&gt;My Achievements&lt;/h1&gt;&#xA;&lt;p&gt;Hi! I&amp;rsquo;m &lt;strong&gt;Jhanarthananraja&lt;/strong&gt;, a &lt;strong&gt;Fullstack Developer&lt;/strong&gt;!&lt;/p&gt;&#xA;&lt;h2 id=&#34;top-achievements&#34;&gt;Top Achievements&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h3 id=&#34;winner-chiptatech-2023-by-mampu&#34;&gt;&lt;strong&gt;Winner: CHIPTATECH 2023 by MAMPU&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;CHIPTATECH&lt;/strong&gt; is a prestigious hackathon organized by the &lt;strong&gt;Prime Minister’s Department&lt;/strong&gt; under the &lt;strong&gt;Malaysian Administrative Modernization and Management Planning Unit (MAMPU)&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h3 id=&#34;participation-mystartup-hackathon&#34;&gt;&lt;strong&gt;Participation: MYStartup Hackathon&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;MYStartup Hackathon&lt;/strong&gt; is a national-level competition organized by &lt;strong&gt;MYStartup&lt;/strong&gt; in partnership with &lt;strong&gt;PETRONAS Digital Sdn. Bhd.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h3 id=&#34;winner-students-project-innovation-competition-exhibition-spice-2019&#34;&gt;&lt;strong&gt;Winner: Students Project Innovation Competition Exhibition (SPICE) 2019&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Students Project Innovation Competition and Exhibition (SPICE)&lt;/strong&gt; is a national competition hosted by &lt;strong&gt;Politeknik Ungku Omar&lt;/strong&gt;, showcasing innovative student projects.&lt;/p&gt;</description>
     </item>
     <item>
       <title>NJRDEVS Apps Solutions</title>

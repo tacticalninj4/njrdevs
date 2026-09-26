@@ -15,11 +15,11 @@
       <description>Personal finance web app: bank accounts, cards, recurring payments and budgets in one dashboard.</description>
     </item>
     <item>
-      <title>Notes</title>
-      <link>https://njrdevs.com/projects/notes/</link>
+      <title>MERSPlus</title>
+      <link>https://njrdevs.com/projects/mersplus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://njrdevs.com/projects/notes/</guid>
-      <description>Open-source notes app with categories, checklists, locked notes and dark mode.</description>
+      <guid>https://njrdevs.com/projects/mersplus/</guid>
+      <description>Mobile app and operator website that dispatch nearby medical professionals to emergencies while the ambulance is on its way.</description>
     </item>
     <item>
       <title>My Undang</title>
@@ -29,18 +29,25 @@
       <description>Civic app for voting on policies and staying informed about Malaysian legislation.</description>
     </item>
     <item>
+      <title>NJRDEVS.com</title>
+      <link>https://njrdevs.com/projects/njrdevs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://njrdevs.com/projects/njrdevs/</guid>
+      <description>This site: a hand-built design system on Hugo, deployed to Cloudflare&amp;rsquo;s edge with custom domains, dark mode and cache-safe assets.</description>
+    </item>
+    <item>
+      <title>Notes</title>
+      <link>https://njrdevs.com/projects/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://njrdevs.com/projects/notes/</guid>
+      <description>Open-source notes app with categories, checklists, locked notes and dark mode.</description>
+    </item>
+    <item>
       <title>FP Creator</title>
       <link>https://njrdevs.com/projects/fpcreator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://njrdevs.com/projects/fpcreator/</guid>
       <description>Windows app that creates and manages Flutter projects without the command line.</description>
-    </item>
-    <item>
-      <title>MERSPlus</title>
-      <link>https://njrdevs.com/projects/mersplus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://njrdevs.com/projects/mersplus/</guid>
-      <description>Dispatches nearby medical professionals to emergencies while the ambulance is on its way.</description>
     </item>
     <item>
       <title>Chemathletes</title>

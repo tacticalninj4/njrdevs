@@ -1,8 +1,8 @@
 ---
 title: "MERSPlus"
-summary: "Dispatches nearby medical professionals to emergencies while the ambulance is on its way."
-stack: ["Flutter", "Firebase", "Google Maps"]
-weight: 97
+summary: "Mobile app and operator website that dispatch nearby medical professionals to emergencies while the ambulance is on its way."
+stack: ["Flutter", "Go", "Firebase", "Google Maps"]
+weight: 20
 # aliases: ["/first"]
 tags: ["Emergency Response", "MERSPlus", "Healthcare Innovation", "Malaysia", "Ambulance Response Time", "Medical Professionals", "Flutter Development", "Firebase Integration", "Google Maps Platform", "Life-Saving Technology", "CPR Certification", "Emergency Medical Services", "Real-Time Location Tracking", "Go Programming Language", "Identity Verification", "Facial Recognition", "OCR Technology", "Healthcare Solutions", "MERS 999 Operators"]
 showToc: true

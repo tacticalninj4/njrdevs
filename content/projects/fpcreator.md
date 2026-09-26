@@ -2,7 +2,7 @@
 title: "FP Creator"
 summary: "Windows app that creates and manages Flutter projects without the command line."
 stack: ["Flutter", "Windows"]
-weight: 96
+weight: 60
 # aliases: ["/first"]
 tags: ["FPCreator", "Flutter Project Management", "Mobile App Development", "Flutter Tools", "Windows Applications", "Package Management", "Pub.dev Integration", "Visual Studio Code", "Developer Productivity", "Project Templates", "Custom Themes", "Streamlined Development", "Flutter Framework", "Coding Efficiency", "Command-Line Alternatives", "App Development Tools", "Software Development", "Developer Tools", "Flutter Ecosystem"]
 showToc: true

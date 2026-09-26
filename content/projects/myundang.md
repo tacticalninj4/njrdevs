@@ -2,7 +2,7 @@
 title: "My Undang"
 summary: "Civic app for voting on policies and staying informed about Malaysian legislation."
 stack: ["Flutter", "Firebase", "Dialogflow"]
-weight: 95
+weight: 30
 # aliases: ["/first"]
 tags: ["Notes", "Productivity", "Organization", "Task Management", "Privacy", "Dark Mode", "Checklist", "Customization", "Secure Notes", "Note Categories", "App Features", "Personalized Notes", "Note Rearranging", "Rich Content", "User Experience"]
 showToc: true
